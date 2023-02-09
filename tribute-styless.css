@@ -1,0 +1,14 @@
+body {background-color: #858585; padding: 0px; padding-top: 0px }
+div {margin: 0px; border: padding: 20px ; border: 5px solid #45c7ff; padding-top: 0px  }
+h1 {text-align: center; font-family: Lucida Handwriting, Segoe UI; font-size: 50px; color: #82262d; margin-top: 0px; padding-top: 0px}
+h2 {color:#82262d; font-size: 36px; font-family: Trebuchet MS, Palatino; padding-left: 20px; text-decoration: underline; text-align: center}
+li {color: white; font-family: Rockwell; font-size: 24px }
+.link {color: #454545; text-align: center}
+.image {width: 250px; max-height: 500px}    
+.luv {color: #5e151a; text-align: center; font-size: 30px; font-weight: bold} 
+span {margin-left: 300px; font-weight: bold; font-size: 25px}
+.footer {text-align: center; font-size: 20px; color:#f5f5f5 ;}
+.link {font-size: 20px; color:#f5f5f5 ; padding-top: 0px}
+.cap {font-size: 20px; margin-left: 0px}
+.audio {text-transform: uppercase; font-size: 18px}
+.image {width: 100%; max-width: 350px; height: 600px; object-fit: cover; border-radius: 20px }
